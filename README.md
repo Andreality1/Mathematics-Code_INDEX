@@ -1,4 +1,4 @@
-# Mathematics-Code-Graphics-Shaders
+# INDEX
 This is a repo where you could check mathematical proof on computer science
 
 [Online Mathematics-Code-Shaders Website]
